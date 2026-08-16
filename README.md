@@ -4,55 +4,113 @@
   </a>
 </p>
 
-<!-- Фоллбэк, если SVG не загрузился -->
-<h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">Frontend Developer · React & TypeScript</h3>
 
 ---
 
 ## 👨‍💻 Обо мне
 
 - 🎓 Диплом о **профессиональной переподготовке** (Хекслет, 10 месяцев)
-- 🏛️ До IT — 4 года в государственном управлении (СКФУ)
+- 🏛️ До IT — 4 года в государственном управлении
 - 📍 Ставрополь · готов к удалёнке и релокации
 - 💬 Пишу чистый код, люблю функциональный подход и продуманную архитектуру
 
 ---
 
+## 🚀 Сейчас в фокусе
+
+- 🌱 Углубляюсь в **Next.js** и SSR/SSG
+- 🧪 Прокачиваю **тестирование** (React Testing Library + Playwright)
+- 🎯 Цель 2026 — первый коммерческий опыт в продуктовой команде
+  
 ## ⚡ Технический стек
 
-### 🎯 Основные
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
+### 🎯 Языки & Рантайм
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /&gt;
+  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /&gt;
+&lt;/p&gt;
 
-### 🛠 Инструменты
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-</p>
+### ⚛️ Фронтенд
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /&gt;
+  &lt;img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /&gt;
+&lt;/p&gt;
 
-### 📐 Вёрстка и UI
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### 🛠 Инструменты & Сборка
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /&gt;
+  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" /&gt;
+&lt;/p&gt;
+
+### 🧪 Тестирование & Качество
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Code_Climate-0F1B27?style=for-the-badge&logo=codeclimate&logoColor=white" /&gt;
+&lt;/p&gt;
+
+### 🎨 Вёрстка & UI
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /&gt;
+&lt;/p&gt;
+
+### 📡 API & Данные
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" /&gt;
+&lt;/p&gt;
 
 ---
 
 ### 📂 Мои проекты
 
-🔗 **[Real-time Чат (Slack)](https://github.com/Mikhail-o0/chat-slay)** — SPA на React + WebSocket + Redux Toolkit  
-🔗 **[RSS Агрегатор](https://github.com/Mikhail-o0/rss-aggregator)** — MVC-приложение на чистом JavaScript  
-🔗 **[Вычислитель отличий](https://github.com/Mikhail-o0/gendiff)** — CLI-утилита с Jest-тестами и CI  
-🔗 **[Игры разума](https://github.com/Mikhail-o0/brain-games)** — 5 консольных игр на Node.js
+#### 💬 [Real-time Чат (Slack)](https://github.com/Mikhail-o0/chat-slay)
+Мессенджер с каналами, авторизацией и мгновенной доставкой сообщений через WebSocket.  
+**Стек:** `React` `Redux Toolkit` `WebSocket` `React Router` `Formik` `Bootstrap` `i18next` `Rollbar`  
+**Ключевые решения:**  
+- Архитектура состояния на RTK + WebSocket-middleware для real-time обновлений  
+- Полный цикл авторизации (JWT) и защищённые маршруты  
+- Мониторинг ошибок в production и деплой на Netlify  
+
+---
+
+#### 📰 [RSS Агрегатор](https://github.com/Mikhail-o0/rss-aggregator)
+Одностраничное приложение для сбора и чтения RSS-лент с автообновлением контента.  
+**Стек:** `JavaScript (ES6+)` `MVC` `Webpack` `Bootstrap` `Axios` `Yup`  
+**Ключевые решения:**  
+- Чистая MVC-архитектура без фреймворков — ручное управление состоянием и DOM  
+- Проксирование запросов через AllOrigins для обхода CORS  
+- Валидация форм, интернационализация (i18next) и деплой в production  
+
+---
+
+#### ⚖️ [Вычислитель отличий](https://github.com/Mikhail-o0/gendiff)
+CLI-утилита для сравнения конфигурационных файлов (JSON/YAML) с тремя форматами вывода.  
+**Стек:** `Node.js` `JavaScript` `Jest` `Commander.js` `GitHub Actions` `Code Climate`  
+**Ключевые решения:**  
+- Рекурсивный diff-algorithm для вложенных структур данных  
+- 100% покрытие unit-тестами (Jest) + автоматический CI-пайплайн  
+- Абстракция над форматами входных данных и представлениями вывода  
+
+---
+
+#### 🧠 [Игры разума](https://github.com/Mikhail-o0/brain-games)
+Пакет из 5 консольных логических игр (чётность, НОД, арифметическая прогрессия, простые числа, калькулятор).  
+**Стек:** `Node.js` `JavaScript` `ESLint` `GitHub Actions`  
+**Ключевые решения:**  
+- Модульная архитектура с чистыми функциями и разделением ответственности  
+- Публикация в npm и настройка линтера + CI на раннем этапе  
 
 
 
@@ -67,7 +125,14 @@
     <img src="https://img.shields.io/badge/Резюме-онлайн-green?style=for-the-badge" />
   </a>
   <a href="mailto:mixail.frost@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mixail.frost@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-mikhail.mo95@yandex.ru-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikhail-o0&theme=github-dark-blue&hide_border=true" alt="streak" />
+</p>
